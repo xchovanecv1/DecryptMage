@@ -1,0 +1,2 @@
+# DecryptMage
+Electron Aplication
